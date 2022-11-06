@@ -1,0 +1,10 @@
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+:root {
+  --main-table: #c1c5c6;
+  --dark: #98999b;
+  --active: #7e90a1;
+  --darkest: #515457;
+}
